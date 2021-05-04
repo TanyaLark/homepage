@@ -1,3 +1,19 @@
 i.bi {
   vertical-align: 4px
 }
+
+h6 {
+  margin: 1em 0 0 0;
+}
+
+p:last-child{
+  margin-bottom: 1em;
+}
+
+#achievement{
+  margin: 1em 0;
+}
+
+.details{
+  margin-bottom: 0.5em;
+}
